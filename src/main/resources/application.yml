@@ -1,0 +1,5 @@
+todoApi:
+  baseUrl: https://jsonplaceholder.typicode.com
+
+server:
+  port: 8181

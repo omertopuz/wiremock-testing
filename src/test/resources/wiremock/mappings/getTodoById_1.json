@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/todos/1"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "todo_1.json"
+  }
+}
